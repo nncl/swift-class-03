@@ -152,5 +152,3 @@ print("cauê bruno de almeida".initials)
 
 
 
-
-
