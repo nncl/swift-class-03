@@ -105,6 +105,7 @@ extension String {
     http://stackoverflow.com/questions/24092884/get-nth-character-of-a-string-in-swift-programming-language
 }
 */
+// 2 - .initials() Must returns all phrase's initials
 
 // String here\(varHere) <- composition
 
@@ -128,8 +129,10 @@ extension String {
 print("cauê bruno de almeida".count)
 print("cauê bruno de almeida".initials)
 
-// 2 - .initials() Must returns all phrase's initials
-// TODO
+// ============
+// Protocols == Interfaces
+//  You can implement more functionalities per class when implementing protocols
+// ============
 
 
 
